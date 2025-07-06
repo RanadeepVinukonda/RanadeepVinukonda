@@ -36,57 +36,43 @@ Built with vanilla JS, Bootstrap, and TheMovieDB API.
 ### 🧠 Languages & ML
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" width="40" height="40" style="background:#F7DF1E; padding:6px; border-radius:10px;" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/typescript.svg" width="40" height="40" style="background:#3178C6; padding:6px; border-radius:10px;" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" width="40" height="40" style="background:#3776AB; padding:6px; border-radius:10px;" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pandas.svg" width="40" height="40" style="background:#150458; padding:6px; border-radius:10px;" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/numpy.svg" width="40" height="40" style="background:#013243; padding:6px; border-radius:10px;" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" width="40" height="40" style="background:#FF6F00; padding:6px; border-radius:10px;" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pytorch.svg" width="40" height="40" style="background:#EE4C2C; padding:6px; border-radius:10px;" alt="PyTorch"/>
 </p>
 
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" width="40" height="40" style="background:#E34F26; padding:6px; border-radius:10px;" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" width="40" height="40" style="background:#1572B6; padding:6px; border-radius:10px;" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" width="40" height="40" style="background:#20232A; padding:6px; border-radius:10px;" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vue-dot-js.svg" width="40" height="40" style="background:#4FC08D; padding:6px; border-radius:10px;" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/bootstrap.svg" width="40" height="40" style="background:#7952B3; padding:6px; border-radius:10px;" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" width="40" height="40" style="background:#06B6D4; padding:6px; border-radius:10px;" alt="Tailwind CSS"/>
 </p>
 
 ### 🧰 Backend & Database
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" style="background-color:white; padding:2px; border-radius:4px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/node-dot-js.svg" width="40" height="40" style="background:#339933; padding:6px; border-radius:10px;" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" width="40" height="40" style="background:#000000; padding:6px; border-radius:10px;" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" width="40" height="40" style="background:#47A248; padding:6px; border-radius:10px;" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/firebase.svg" width="40" height="40" style="background:#FFCA28; padding:6px; border-radius:10px;" alt="Firebase"/>
 </p>
 
 ### ☁️ DevOps & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
-</p>
-
----
-
-## 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanadeepVinukonda&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=RanadeepVinukonda&theme=gruvbox&no-frame=true&row=1&column=7" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="40" height="40" style="background:#F05032; padding:6px; border-radius:10px;" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" height="40" style="background:#181717; padding:6px; border-radius:10px;" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" width="40" height="40" style="background:#2496ED; padding:6px; border-radius:10px;" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postman.svg" width="40" height="40" style="background:#FF6C37; padding:6px; border-radius:10px;" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlecloud.svg" width="40" height="40" style="background:#4285F4; padding:6px; border-radius:10px;" alt="GCP"/>
 </p>
 
 ---
@@ -94,27 +80,26 @@ Built with vanilla JS, Bootstrap, and TheMovieDB API.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+  <a href="mailto:viranadeep@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" height="40" style="background:#D14836; padding:6px; border-radius:10px;" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ranadeepvinukonda" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" height="40" style="background:#0A66C2; padding:6px; border-radius:10px;" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/ranadeepvinukonda" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" height="40" style="background:#E4405F; padding:6px; border-radius:10px;" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://medium.com/@viranadeep" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" width="40" height="40" alt="Medium" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" width="40" height="40" style="background:#12100E; padding:6px; border-radius:10px;" alt="Medium" />
   </a>
   &nbsp;
   <a href="https://github.com/RanadeepVinukonda" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" height="40" style="background:#181717; padding:6px; border-radius:10px;" alt="GitHub" />
   </a>
 </p>
-
 
 ---
 
