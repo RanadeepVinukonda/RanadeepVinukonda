@@ -94,12 +94,27 @@ Built with vanilla JS, Bootstrap, and TheMovieDB API.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ranadeepvinukonda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@viranadeep"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ranadeepvinukonda" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ranadeepvinukonda" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@viranadeep" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" width="40" height="40" alt="Medium" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/RanadeepVinukonda" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
 </p>
+
 
 ---
 
