@@ -30,7 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
-  <img src="https://img.icons8.com/color/48/000000/cloud.png"/>
 </p>
 
 ---
