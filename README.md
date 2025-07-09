@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **EduAltTech**, an e-learning MERN platform  
 - 🌱 I’m learning **Full Stack Development, AI, and Cloud Deployment**  
 - 💬 Ask me about **React, Node.js, MongoDB, Streamlit, ML Models**  
-- 📫 Reach me at: **vinukondaranadeep@gmail.com**  
+- 📫 Reach me at: **viranadeep@gmail.com**  
 - 🧳 Exploring **GCP and model deployment pipelines**
 
 ---
