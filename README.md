@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ranadeep Vinukonda</h1>
 <h3 align="center">An aspiring Full Stack Developer & Data Scientist</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🧠 About Me
