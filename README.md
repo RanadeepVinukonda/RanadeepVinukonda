@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═════╝ ╚═╝     
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%26+Data+Science+Enthusiast;Founder+%26+CTO+%40+EduAltTech;CSE+%40+UCEK+Kakinada;Learning+MERN+%2F+AI%2FML+%2F+Cloud;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%26+Data+Science+Enthusiast;Founder+%26+CTO+%40+EduAltTech;CSE+%40+UCEK+Kakinada;Learning+MERN+%2F+AI%2FML+%2F+Cloud;Open+to+opportunities)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=profile_views&color=39d353&style=flat)](https://github.com/RanadeepVinukonda)
 
@@ -17,43 +17,43 @@
 
 ---
 
-## 💻 `$ whoami`
+## `$ whoami`
 
 ```bash
 $ whoami
-ranadeep@github:~/profile$ neofetch
+ranadeep@github:~/profile$ neofetch --ascii
 ```
 
-```text
-                        ############
-                   ####################             Ranadeep Vinukonda
-                ##########################          ──────────────────────────
-              #############    ############         OS   : CSE @ UCEK, Kakinada
-            ###########          ##########         Hobby: Building EduAltTech 🚀
-           ##########             ##########        Shell: React · Node · Python
-          ##########               ##########       Focus : Full Stack + Data Science
-          ##########               ##########       Cloud : GCP · Azure
-          ##########               ##########       Based : Ongole, Andhra Pradesh 🇮🇳
-           ##########             ##########        Uptime: 24/7 learning mode
-            ###########          ##########
-              #############    ############
-                ##########################
-                   ####################
-                        ############
-```
+<table>
+  <tr>
+    <td align="center">
+      <img src="donut.gif" alt="spinning ascii donut" width="420" />
+    </td>
+    <td valign="middle">
+      <pre><b>Ranadeep Vinukonda</b>
+──────────────────────────
+Degree : B.Tech CSE @ UCEK, Kakinada
+Focus  : Full Stack + Data Science
+Shell  : React · Node · Python
+Cloud  : GCP · Azure
+Base   : Ongole, Andhra Pradesh, India
+Status : Open to opportunities</pre>
+    </td>
+  </tr>
+</table>
 
 ```bash
 $ cat ./about.txt
-🔭 Working on   → EduAltTech, an e-learning MERN platform (learn & share skills)
-🌱 Learning     → Full Stack Dev, AI/ML, Cloud deployment pipelines
-🧪 Exploring    → GCP, GenAI apps, model deployment & MLOps
-💬 Ask me about → React, Node.js, MongoDB, Streamlit, ML models
-📫 Reach me     → viranadeep@gmail.com
+Current   → Founder & CTO @ EduAltTech — an e-learning MERN platform
+Learning  → Full Stack Development, AI/ML, Cloud deployment pipelines
+Exploring → GCP, GenAI applications, model deployment & MLOps
+Expertise → React, Node.js, MongoDB, Streamlit, ML models
+Contact   → viranadeep@gmail.com
 ```
 
 ---
 
-## 🚀 `$ cat ./startup.md` — Entrepreneurship
+## `$ cat ./startup.md` — Entrepreneurship
 
 ```bash
 $ ls ./founder
@@ -64,19 +64,19 @@ $ ls ./founder
 > *Designing and implementing cutting-edge technology solutions that power our platform,
 > ensuring security, scalability, and innovative student experiences.*
 
-- 🎓 **Problem:** Traditional education is one-size-fits-all — students deserve learning that adapts to *them*.
-- 💡 **Solution:** EduAltTech — a platform where students **learn and share skills** together.
-- 🛠️ **Stack:** MERN · Tailwind · DaisyUI · Cloudinary
-- 🧭 **Mission:** Make quality skill-building accessible, collaborative, and community-driven.
-- 📈 **Role:** Lead architecture, product vision, and the engineering team end-to-end.
+- **Problem:** Traditional education is one-size-fits-all — students deserve learning that adapts to them.
+- **Solution:** EduAltTech — a platform where students learn and share skills together.
+- **Stack:** MERN · Tailwind · DaisyUI · Cloudinary
+- **Mission:** Make quality skill-building accessible, collaborative, and community-driven.
+- **Role:** Lead architecture, product vision, and the engineering team end-to-end.
 
 ```bash
-$ echo "Building the future of education, one commit at a time" 
+$ echo "Building the future of education, one commit at a time"
 ```
 
 ---
 
-## 🛠️ `$ ls ./skills`
+## `$ ls ./skills`
 
 ```bash
 $ ls ./skills && cat ./skills/version.txt
@@ -96,7 +96,7 @@ $ ls ./skills && cat ./skills/version.txt
 
 ---
 
-## 📦 `$ ls ./projects`
+## `$ ls ./projects`
 
 ```bash
 $ ls --color=always ./projects
@@ -114,23 +114,23 @@ $ ls --color=always ./projects
 
 ---
 
-## 📜 `$ cat ./certifications.txt`
+## `$ cat ./certifications.txt`
 
 ```bash
 $ ls ./certifications --verbose
 ```
 
-- ✅ **Meta** — Intro to Backend Development
-- ✅ **IBM** — Introduction to Artificial Intelligence
-- ✅ **University of London** — Machine Learning for All
-- ✅ **Google Cloud** — Build Real-World AI Apps with Gemini & Imagen
-- ✅ **Google Cloud Gen AI Exchange** — Gen AI Academy (5 courses, powered by Hack2skill)
-- ✅ **Microsoft Azure AI** — Internship by Edunet Foundation × AICTE
-- ✅ **Infosys Springboard** — Virtual Internship 6.0 (Audio Book Generator project)
+- **Meta** — Intro to Backend Development
+- **IBM** — Introduction to Artificial Intelligence
+- **University of London** — Machine Learning for All
+- **Google Cloud** — Build Real-World AI Apps with Gemini & Imagen
+- **Google Cloud Gen AI Exchange** — Gen AI Academy (5 courses, powered by Hack2skill)
+- **Microsoft Azure AI** — Internship by Edunet Foundation × AICTE
+- **Infosys Springboard** — Virtual Internship 6.0 (Audio Book Generator project)
 
 ---
 
-## 📊 `$ ./stats.sh`
+## `$ ./stats.sh`
 
 ```bash
 $ git stats --all --since=2024 --count
@@ -146,7 +146,7 @@ $ git stats --all --since=2024 --count
 
 ---
 
-## 🤝 `$ ./connect.sh`
+## `$ ./connect.sh`
 
 ```bash
 $ curl -s https://ranadeep.github.io/api/socials
@@ -165,9 +165,9 @@ $ curl -s https://ranadeep.github.io/api/socials
 <div align="center">
 
 ```text
-$ echo "Thanks for visiting — let's build something great together! 🚀"
+$ echo "Thanks for visiting — let's build something great together."
 ```
 
-**[⬆ Back to top](#)**
+**[Back to top](#)**
 
 </div>
