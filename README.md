@@ -1,27 +1,28 @@
 <div align="center">
 
 ```text
-██████╗  █████╗ ███╗   ██╗ █████╗ ██████╗ ██████╗ ██████╗ ██████╗ 
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-██████╔╝███████║██╔██╗ ██║███████║██████╔╝██████╔╝██████╔╝██████╔╝
-██╔══██╗██╔══██║██║╚██╗██║██╔══██║██╔══██╗██╔══██╗██╔══██╗██╔═══╝ 
-██║  ██║██║  ██║██║ ╚████║██║  ██║██████╔╝██████╔╝██████╔╝██║     
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═════╝ ╚═╝     
+ ____      _    _   _    _    ____  _____ _____ ____  
+|  _ \    / \  | \ | |  / \  |  _ \| ____| ____|  _ \ 
+| |_) |  / _ \ |  \| | / _ \ | | | |  _| |  _| | |_) |
+|  _ <  / ___ \| |\  |/ ___ \| |_| | |___| |___|  __/ 
+|_| \_\/_/   \_\_| \_/_/   \_\____/|_____|_____|_|    
+                                                      
+__     _____ _   _ _   _ _  _____  _   _ ____    _    
+\ \   / /_ _| \ | | | | | |/ / _ \| \ | |  _ \  / \   
+ \ \ / / | ||  \| | | | | ' / | | |  \| | | | |/ _ \  
+  \ V /  | || |\  | |_| | . \ |_| | |\  | |_| / ___ \ 
+   \_/  |___|_| \_|\___/|_|\_\___/|_| \_|____/_/   \_\
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%26+Data+Science+Enthusiast;Founder+%26+CTO+%40+EduAltTech;CSE+%40+UCEK+Kakinada;Learning+MERN+%2F+AI%2FML+%2F+Cloud;Open+to+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%C2%B7+CTO+%40+EduAltTech+%C2%B7+Go,+TypeScript,+System+Design,+Cloud+SRE+%26+ML%2FDL)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=profile_views&color=39d353&style=flat)](https://github.com/RanadeepVinukonda)
+[![Profile Views](https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=profile_views&color=6b6b6b&style=flat)](https://github.com/RanadeepVinukonda)
 
 </div>
 
 ---
 
 ## `$ whoami`
-
-```bash
-ranadeep@github:~/profile$ neofetch --ascii
-```
 
 <table>
   <tr>
@@ -32,8 +33,8 @@ ranadeep@github:~/profile$ neofetch --ascii
       <pre><b>Ranadeep Vinukonda</b>
 ──────────────────────────
 Degree : B.Tech CSE @ UCEK, Kakinada
-Focus  : Full Stack + Data Science
-Shell  : React · Node · Python
+Focus  : Full Stack · Systems · ML/DL
+Stack  : React · Node · TypeScript · Go · Python
 Cloud  : GCP · Azure
 Base   : Ongole, Andhra Pradesh, India
 Status : Open to opportunities</pre>
@@ -43,65 +44,112 @@ Status : Open to opportunities</pre>
 
 ```bash
 $ cat ./about.txt
-Current   → Founder & CTO @ EduAltTech — an e-learning MERN platform
-Learning  → Full Stack Development, AI/ML, Cloud deployment pipelines
+Current   → CTO @ EduAltTech — an e-learning full-stack platform
+Learning  → Go · TypeScript · System Design · Cloud SRE
+Studying  → Machine Learning & Deep Learning
 Exploring → GCP, GenAI applications, model deployment & MLOps
-Expertise → React, Node.js, MongoDB, Streamlit, ML models
+Expertise → React, Node.js, TypeScript, Go, Python, ML models
 Contact   → viranadeep@gmail.com
 ```
 
 I'm a Computer Science undergraduate at UCEK Kakinada building products at the
-intersection of full-stack development and data science. As the Founder and CTO of
+intersection of full-stack development and data science. As the CTO of
 EduAltTech, I design and lead the engineering behind an e-learning platform built to
 make skill-sharing accessible and collaborative. I care about clean architecture,
-pragmatic ML, and shipping software that real people use.
+pragmatic ML, and shipping software that real people use. Currently deep-diving into
+Go, TypeScript, system design, Cloud SRE, and ML/DL.
 
 ---
 
-## Entrepreneurship — Founder & CTO @ [Edu Alt Tech](https://github.com/RanadeepVinukonda/EduAlTech)
+## Entrepreneurship — CTO @ [Edu Alt Tech](https://github.com/RanadeepVinukonda/EduAlTech)
 
 > *Designing and implementing cutting-edge technology solutions that power our platform,
 > ensuring security, scalability, and innovative student experiences.*
 
 - **Problem:** Traditional education is one-size-fits-all — students deserve learning that adapts to them.
 - **Solution:** EduAltTech — a platform where students learn and share skills together.
-- **Stack:** MERN · Tailwind · DaisyUI · Cloudinary
 - **Mission:** Make quality skill-building accessible, collaborative, and community-driven.
 - **Role:** Lead architecture, product vision, and the engineering team end-to-end.
-
-```bash
-$ echo "Building the future of education, one commit at a time"
-```
 
 ---
 
 ## Skills
 
-**Frontend & Backend**
+**Full Stack Development**
 
-![Full Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind)
+<p align="center">
+<img src="https://api.iconify.design/simple-icons/html5.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/css3.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/javascript.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/react.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/go.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/express.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/git.svg?color=%236b6b6b" width="42" />
+</p>
 
-**Data Science & ML**
+**System Backend**
 
-![Data Science](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,jupyter,streamlit)
+<p align="center">
+<img src="https://api.iconify.design/simple-icons/go.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/typescript.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/redis.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/mysql.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/rabbitmq.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/nginx.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/graphql.svg?color=%236b6b6b" width="42" />
+</p>
 
-**Cloud & Tools**
+**Cloud SRE**
 
-![Tools](https://skillicons.dev/icons?i=gcp,azure,git,github,linux,figma,vscode,n8n)
+<p align="center">
+<img src="https://api.iconify.design/simple-icons/linux.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/docker.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/kubernetes.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/googlecloud.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/microsoftazure.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/gnubash.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/n8n.svg?color=%236b6b6b" width="42" />
+</p>
+
+**AI, ML & Deep Learning**
+
+<p align="center">
+<img src="https://api.iconify.design/simple-icons/python.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/pandas.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/numpy.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/jupyter.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/tensorflow.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/keras.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/opencv.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/huggingface.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/streamlit.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/langchain.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/openai.svg?color=%236b6b6b" width="42" />&nbsp;
+<img src="https://api.iconify.design/simple-icons/ollama.svg?color=%236b6b6b" width="42" />
+</p>
 
 ---
 
 ## Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [**EduAlTech**](https://github.com/RanadeepVinukonda/EduAlTech) | `MERN` `Tailwind` `Cloudinary` | E-learning platform to learn & share skills |
-| [**Customer Spending Forecast**](https://github.com/RanadeepVinukonda/Customer-Spending-Forecast) | `Python` `Streamlit` `sklearn` | Predicts customer spending with regression |
-| [**Plot Generator**](https://github.com/RanadeepVinukonda/Plot-Generator) | `Streamlit` `Matplotlib` | Auto-generates visual plots from datasets |
-| [**Auto ML Regression Trainer**](https://github.com/RanadeepVinukonda/-Auto-ML-Linear-Regression-Trainer) | `Python` `Streamlit` | Upload dataset → auto-train + live predictions |
-| [**LLM Book Recommender**](https://github.com/RanadeepVinukonda/LLm-Book-Recommender) | `LLM` | AI-powered book recommendations |
-| [**Text Extractor**](https://github.com/RanadeepVinukonda/Text_Extractor) | `Python` | Text extraction module for audiobook generation |
-| [**YouTube Automation**](https://github.com/RanadeepVinukonda/Youtube-Automation) | `n8n` | Automating YouTube workflows with n8n |
+| Project | Description |
+|---------|-------------|
+| [**EduAlTech**](https://github.com/RanadeepVinukonda/EduAlTech) | E-learning platform to learn & share skills |
+| [**Customer Spending Forecast**](https://github.com/RanadeepVinukonda/Customer-Spending-Forecast) | Predicts customer spending with regression |
+| [**Auto ML Regression Trainer**](https://github.com/RanadeepVinukonda/-Auto-ML-Linear-Regression-Trainer) | Upload dataset → auto-train + live predictions |
+| [**LLM Book Recommender**](https://github.com/RanadeepVinukonda/LLm-Book-Recommender) | AI-powered book recommendations |
+| [**Plot Generator**](https://github.com/RanadeepVinukonda/Plot-Generator) | Auto-generates visual plots from datasets |
 
 ---
 
@@ -131,10 +179,6 @@ $ echo "Building the future of education, one commit at a time"
 
 ## Connect
 
-```bash
-$ echo "Find me here:"
-```
-
 <p align="center">
   <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -146,10 +190,6 @@ $ echo "Find me here:"
 ---
 
 <div align="center">
-
-```text
-$ echo "Thanks for visiting — let's build something great together."
-```
 
 **[Back to top](#)**
 
