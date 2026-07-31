@@ -20,7 +20,6 @@
 ## `$ whoami`
 
 ```bash
-$ whoami
 ranadeep@github:~/profile$ neofetch --ascii
 ```
 
@@ -51,15 +50,15 @@ Expertise → React, Node.js, MongoDB, Streamlit, ML models
 Contact   → viranadeep@gmail.com
 ```
 
+I'm a Computer Science undergraduate at UCEK Kakinada building products at the
+intersection of full-stack development and data science. As the Founder and CTO of
+EduAltTech, I design and lead the engineering behind an e-learning platform built to
+make skill-sharing accessible and collaborative. I care about clean architecture,
+pragmatic ML, and shipping software that real people use.
+
 ---
 
-## `$ cat ./startup.md` — Entrepreneurship
-
-```bash
-$ ls ./founder
-```
-
-**Ranadeep Vinukonda — Founder & CTO @ [Edu Alt Tech](https://github.com/RanadeepVinukonda/EduAlTech)**
+## Entrepreneurship — Founder & CTO @ [Edu Alt Tech](https://github.com/RanadeepVinukonda/EduAlTech)
 
 > *Designing and implementing cutting-edge technology solutions that power our platform,
 > ensuring security, scalability, and innovative student experiences.*
@@ -76,11 +75,7 @@ $ echo "Building the future of education, one commit at a time"
 
 ---
 
-## `$ ls ./skills`
-
-```bash
-$ ls ./skills && cat ./skills/version.txt
-```
+## Skills
 
 **Frontend & Backend**
 
@@ -96,11 +91,7 @@ $ ls ./skills && cat ./skills/version.txt
 
 ---
 
-## `$ ls ./projects`
-
-```bash
-$ ls --color=always ./projects
-```
+## Projects
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -114,11 +105,7 @@ $ ls --color=always ./projects
 
 ---
 
-## `$ cat ./certifications.txt`
-
-```bash
-$ ls ./certifications --verbose
-```
+## Certifications
 
 - **Meta** — Intro to Backend Development
 - **IBM** — Introduction to Artificial Intelligence
@@ -130,11 +117,7 @@ $ ls ./certifications --verbose
 
 ---
 
-## `$ ./stats.sh`
-
-```bash
-$ git stats --all --since=2024 --count
-```
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117" width="46%" />
@@ -146,10 +129,10 @@ $ git stats --all --since=2024 --count
 
 ---
 
-## `$ ./connect.sh`
+## Connect
 
 ```bash
-$ curl -s https://ranadeep.github.io/api/socials
+$ echo "Find me here:"
 ```
 
 <p align="center">
