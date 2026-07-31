@@ -1,131 +1,173 @@
-<!-- GitHub Profile README for Ranadeep Vinukonda -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ranadeep Vinukonda</h1>
-<h3 align="center">An aspiring Full Stack Developer & Data Scientist</h3>
+```text
+██████╗  █████╗ ███╗   ██╗ █████╗ ██████╗ ██████╗ ██████╗ ██████╗ 
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+██████╔╝███████║██╔██╗ ██║███████║██████╔╝██████╔╝██████╔╝██████╔╝
+██╔══██╗██╔══██║██║╚██╗██║██╔══██║██╔══██╗██╔══██╗██╔══██╗██╔═══╝ 
+██║  ██║██║  ██║██║ ╚████║██║  ██║██████╔╝██████╔╝██████╔╝██║     
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═════╝ ╚═╝     
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=39D353&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%26+Data+Science+Enthusiast;Founder+%26+CTO+%40+EduAltTech;CSE+%40+UCEK+Kakinada;Learning+MERN+%2F+AI%2FML+%2F+Cloud;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=profile_views&color=39d353&style=flat)](https://github.com/RanadeepVinukonda)
+
+</div>
+
+---
+
+## 💻 `$ whoami`
+
+```bash
+$ whoami
+ranadeep@github:~/profile$ neofetch
+```
+
+```text
+                        ############
+                   ####################             Ranadeep Vinukonda
+                ##########################          ──────────────────────────
+              #############    ############         OS   : CSE @ UCEK, Kakinada
+            ###########          ##########         Hobby: Building EduAltTech 🚀
+           ##########             ##########        Shell: React · Node · Python
+          ##########               ##########       Focus : Full Stack + Data Science
+          ##########               ##########       Cloud : GCP · Azure
+          ##########               ##########       Based : Ongole, Andhra Pradesh 🇮🇳
+           ##########             ##########        Uptime: 24/7 learning mode
+            ###########          ##########
+              #############    ############
+                ##########################
+                   ####################
+                        ############
+```
+
+```bash
+$ cat ./about.txt
+🔭 Working on   → EduAltTech, an e-learning MERN platform (learn & share skills)
+🌱 Learning     → Full Stack Dev, AI/ML, Cloud deployment pipelines
+🧪 Exploring    → GCP, GenAI apps, model deployment & MLOps
+💬 Ask me about → React, Node.js, MongoDB, Streamlit, ML models
+📫 Reach me     → viranadeep@gmail.com
+```
+
+---
+
+## 🚀 `$ cat ./startup.md` — Entrepreneurship
+
+```bash
+$ ls ./founder
+```
+
+**Ranadeep Vinukonda — Founder & CTO @ [Edu Alt Tech](https://github.com/RanadeepVinukonda/EduAlTech)**
+
+> *Designing and implementing cutting-edge technology solutions that power our platform,
+> ensuring security, scalability, and innovative student experiences.*
+
+- 🎓 **Problem:** Traditional education is one-size-fits-all — students deserve learning that adapts to *them*.
+- 💡 **Solution:** EduAltTech — a platform where students **learn and share skills** together.
+- 🛠️ **Stack:** MERN · Tailwind · DaisyUI · Cloudinary
+- 🧭 **Mission:** Make quality skill-building accessible, collaborative, and community-driven.
+- 📈 **Role:** Lead architecture, product vision, and the engineering team end-to-end.
+
+```bash
+$ echo "Building the future of education, one commit at a time" 
+```
+
+---
+
+## 🛠️ `$ ls ./skills`
+
+```bash
+$ ls ./skills && cat ./skills/version.txt
+```
+
+**Frontend & Backend**
+
+![Full Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind)
+
+**Data Science & ML**
+
+![Data Science](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,jupyter,streamlit)
+
+**Cloud & Tools**
+
+![Tools](https://skillicons.dev/icons?i=gcp,azure,git,github,linux,figma,vscode,n8n)
+
+---
+
+## 📦 `$ ls ./projects`
+
+```bash
+$ ls --color=always ./projects
+```
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**EduAlTech**](https://github.com/RanadeepVinukonda/EduAlTech) | `MERN` `Tailwind` `Cloudinary` | E-learning platform to learn & share skills |
+| [**Customer Spending Forecast**](https://github.com/RanadeepVinukonda/Customer-Spending-Forecast) | `Python` `Streamlit` `sklearn` | Predicts customer spending with regression |
+| [**Plot Generator**](https://github.com/RanadeepVinukonda/Plot-Generator) | `Streamlit` `Matplotlib` | Auto-generates visual plots from datasets |
+| [**Auto ML Regression Trainer**](https://github.com/RanadeepVinukonda/-Auto-ML-Linear-Regression-Trainer) | `Python` `Streamlit` | Upload dataset → auto-train + live predictions |
+| [**LLM Book Recommender**](https://github.com/RanadeepVinukonda/LLm-Book-Recommender) | `LLM` | AI-powered book recommendations |
+| [**Text Extractor**](https://github.com/RanadeepVinukonda/Text_Extractor) | `Python` | Text extraction module for audiobook generation |
+| [**YouTube Automation**](https://github.com/RanadeepVinukonda/Youtube-Automation) | `n8n` | Automating YouTube workflows with n8n |
+
+---
+
+## 📜 `$ cat ./certifications.txt`
+
+```bash
+$ ls ./certifications --verbose
+```
+
+- ✅ **Meta** — Intro to Backend Development
+- ✅ **IBM** — Introduction to Artificial Intelligence
+- ✅ **University of London** — Machine Learning for All
+- ✅ **Google Cloud** — Build Real-World AI Apps with Gemini & Imagen
+- ✅ **Google Cloud Gen AI Exchange** — Gen AI Academy (5 courses, powered by Hack2skill)
+- ✅ **Microsoft Azure AI** — Internship by Edunet Foundation × AICTE
+- ✅ **Infosys Springboard** — Virtual Internship 6.0 (Audio Book Generator project)
+
+---
+
+## 📊 `$ ./stats.sh`
+
+```bash
+$ git stats --all --since=2024 --count
+```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanadeepVinukonda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&theme=merko&hide_border=true&bg_color=0d1117" width="40%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanadeepVinukonda&theme=merko&hide_border=true" width="50%" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🤝 `$ ./connect.sh`
 
-- 🔭 I’m currently working on **EduAltTech**, an e-learning MERN platform  
-- 🌱 I’m learning **Full Stack Development, AI, and Cloud Deployment**  
-- 💬 Ask me about **React, Node.js, MongoDB, Streamlit, ML Models**  
-- 📫 Reach me at: **viranadeep@gmail.com**  
-- 🧳 Exploring **GCP and model deployment pipelines**
-
----
-
-### 🛠️ Tech Stack
-
-#### 🎨 Frontend
-<p float="left">
-  <img src="https://img.icons8.com/color/48/html-5.png" />
-  <img src="https://img.icons8.com/color/48/css3.png" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" />
-  <img src="https://img.icons8.com/color/48/react-native.png" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" />
-</p>
-
-#### 🔙 Backend
-<p float="left">
-  <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <!-- Custom Express SVG -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 64 64">
-    <linearGradient id="exp1" x1="30.982" x2="30.982" y1="21.203" y2="43.514" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6dc7ff"/>
-      <stop offset="1" stop-color="#e6abff"/>
-    </linearGradient>
-    <path fill="url(#exp1)" d="M45.758,32.346L56.964,47h-0.85c-1.051,0-2.041-0.49-2.68-1.324L44.5,33.992l-8.935,11.684..."></path>
-  </svg>
-  <img src="https://img.icons8.com/color/48/mongodb.png" />
-</p>
-
-#### ☁️ Cloud & DevOps
-<p float="left">
-  <img src="https://img.icons8.com/color/48/google-cloud.png" />
-  <img src="https://img.icons8.com/color/48/cloud.png" />
-</p>
-
-#### 📈 Machine Learning
-<p float="left">
-  <img src="https://img.icons8.com/color/48/python--v1.png" />
-  <img src="https://img.icons8.com/color/48/pandas.png" />
-  <img src="https://img.icons8.com/color/48/numpy.png" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-scikit-learn-data-science-soft-fill-soft-fill-juicy-fish.png" />
-</p>
-
-#### 🧰 Tools & Misc
-<p float="left">
-  <img src="https://img.icons8.com/color/48/git.png" />
-  <!-- Custom GitHub icon (sky blue) -->
-  <img width="40" height="40" src="https://img.icons8.com/color/48/github--v1.png" />
-  <img src="https://img.icons8.com/color/48/figma.png" />
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/linux.png" />
-</p>
-
----
-
-### 🔥 Top Projects
-
-| Project        | Tech Stack         | Description |
-|----------------|--------------------|-------------|
-| [EduAltTech](https://github.com/RanadeepVinukonda/EduAlTech) | MERN, Tailwind, DaisyUI, Cloudinary | E-learning platform to learn & share skills |
-| [Spending Forecast](https://github.com/RanadeepVinukonda/Customer-Spending-Forecast) | Python, Streamlit, Pandas, Sklearn | Predicts customer spending with regression |
-| [Plot Generator](https://github.com/RanadeepVinukonda/Plot-Generator) | Streamlit, Matplotlib, Seaborn | Auto-generates visual plots from datasets |
-
----
-
-### 🧾 Certifications
-
-- 📜 Meta – *Intro to Backend*
-- 📜 IBM – *Intro to Artificial Intelligence*
-- 📜 University of London – *Machine Learning for All*
-- 📜 Google Cloud – *Build AI Apps with Gemini & Imagen*
-
----
-
-### 📊 GitHub Stats
+```bash
+$ curl -s https://ranadeep.github.io/api/socials
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanadeepVinukonda&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/vinukondaranadeep"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@viranadeep"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:viranadeep@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+<div align="center">
 
-<p>
-  <!-- GitHub (custom icon sky blue) -->
-  <a href="https://github.com/RanadeepVinukonda" target="_blank">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
-  </a>
+```text
+$ echo "Thanks for visiting — let's build something great together! 🚀"
+```
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/vinukondaranadeep" target="_blank">
-    <img height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-  </a>
+**[⬆ Back to top](#)**
 
-  <!-- Medium with custom SVG -->
-  <a href="https://medium.com/@viranadeep" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 64 64">
-      <path fill="#000" d="M52,8H12c-2.209,0-4,1.791-4,4v40c0,2.209,1.791,4,4,4h40c2.209,0,4-1.791,4-4V12C56,9.791,54.209,8,52,8z M47,19.5..."></path>
-    </svg>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ranadeepvinukonda" target="_blank">
-    <img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:viranadeep@gmail.com">
-    <img height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
-</p>
+</div>
