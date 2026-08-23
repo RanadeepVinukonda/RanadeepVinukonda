@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101820,100:00c896&height=180&section=header&text=Ranadeep%20Vinukonda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CTO%20%40%20EduAltTech%20%C2%B7%20Full%20Stack%20%26%20Systems%20%C2%B7%20CSE%20Undergraduate&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:0d9488,100:0d1117&height=180&section=header&text=Ranadeep%20Vinukonda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CTO%20%40%20EduAltTech%20%C2%B7%20Full%20Stack%20%26%20Systems%20%C2%B7%20CSE%20Undergraduate&descSize=16&descAlignY=60" width="100%"/>
 
 ### Building products, systems, and AI-powered experiences.
 
@@ -70,13 +70,14 @@ As CTO, I work across the product and engineering stack — from architecture an
 ### AI / ML / Deep Learning
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,sklearn&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://api.iconify.design/simple-icons/pandas.svg?color=%2300c896" width="48" alt="pandas"/>&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/huggingface.svg?color=%2300c896" width="48" alt="huggingface"/>&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/langchain.svg?color=%2300c896" width="48" alt="langchain"/>&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2300c896" width="48" alt="openai"/>
 </p>
 
 ---
@@ -127,8 +128,8 @@ Full Stack ──▶ Backend ──▶ System Design ──▶ Cloud/SRE ──�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" width="47%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" width="41%" alt="Top languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanadeepVinukonda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" width="47%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" width="41%" alt="Top languages"/>
 
 <br/>
 
@@ -147,13 +148,18 @@ Open to building, learning, and collaborating on interesting software, systems, 
 Ongole, Andhra Pradesh, India
 
 <p>
-  <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-RanadeepVinukonda-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-ranadeepvinukonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:viranadeep@gmail.com"><img src="https://img.shields.io/badge/Email-viranadeep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/RanadeepVinukonda"><img src="https://api.iconify.design/simple-icons/github.svg?color=%2300c896" width="42" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%2300c896" width="42" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/ranadeep5129"><img src="https://api.iconify.design/simple-icons/buymeacoffee.svg?color=%2300c896" width="42" alt="Buy Me a Coffee"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:viranadeep@gmail.com"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%2300c896" width="42" alt="Email"/></a>
 </p>
+
+<a href="https://buymeacoffee.com/ranadeep5129">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
 
 ### Build · Learn · Ship · Improve
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101820,100:00c896&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:00c896&height=120&section=footer" width="100%"/>
 
 </div>
