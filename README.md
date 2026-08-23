@@ -1,341 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:101820,100:00c896&height=190&section=header&text=RANADEEP%20VINUKONDA&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20CTO%20%40%20EduAltTech&descSize=17&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101820,100:00c896&height=180&section=header&text=Ranadeep%20Vinukonda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CTO%20%40%20EduAltTech%20%C2%B7%20Full%20Stack%20%26%20Systems%20%C2%B7%20CSE%20Undergraduate&descSize=16&descAlignY=60" width="100%"/>
+
+### Building products, systems, and AI-powered experiences.
 
 <p>
-<a href="https://github.com/RanadeepVinukonda">
-<img src="https://img.shields.io/badge/GitHub-RanadeepVinukonda-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ranadeepvinukonda">
-<img src="https://img.shields.io/badge/LinkedIn-RanadeepVinukonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:viranadeep@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:viranadeep@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br/>
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=800&lines=Full+Stack+Development;Backend+%26+Systems+Engineering;Cloud+%26+SRE;Machine+Learning+%26+Deep+Learning;Building+%E2%86%92+Learning+%E2%86%92+Shipping)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
+---
 
-About Me
+## About Me
 
-Computer Science undergraduate at UCEK Kakinada · CTO @ EduAltTech
+Computer Science undergraduate at **UCEK Kakinada** and **CTO @ EduAltTech**, working across product development, architecture, backend engineering, and deployment. My interests sit at the intersection of full-stack development, scalable systems, cloud engineering, and AI/ML.
 
-I build full-stack products and explore the systems behind them — from backend architecture and APIs to cloud infrastructure and AI-powered applications.
+| **Currently** | **Deepening** |
+|---|---|
+| Leading product & engineering at EduAltTech | Go, APIs, Concurrency, Distributed Systems |
+| Building full-stack applications end-to-end | TypeScript, React, Next.js |
+| Backend systems & deployment pipelines | System Design, Scalability |
+| Exploring GCP, GenAI, MLOps | GCP, Docker, Kubernetes, SRE |
+| Shipping AI-powered products | ML, Deep Learning, GenAI, MLOps |
 
-<table>
-<tr>
-<td align="center" width="25%">
+I enjoy taking an idea from problem → architecture → implementation → deployment, and learning the engineering principles behind every step.
 
-ROLE
+---
 
-CTO @ EduAltTech
+## CTO @ EduAltTech
 
-</td>
-<td align="center" width="25%">
+**[EduAltTech](https://github.com/RanadeepVinukonda/EduAlTech)** — an e-learning platform built to make learning more accessible, collaborative, and practical.
 
-FOCUS
+| | |
+|---|---|
+| **Problem** | Traditional education is often one-size-fits-all |
+| **Approach** | A platform where students learn and share skills |
+| **My Role** | Product direction · Architecture · Backend · Engineering |
+| **Priority** | Security · Scalability · Developer Experience · UX |
 
-Full Stack
-Systems
+As CTO, I work across the product and engineering stack — from architecture and backend systems to deployment and feature development.
 
-</td>
-<td align="center" width="25%">
+---
 
-EXPLORING
+## Technology
 
-Cloud SRE
-MLOps
+### Languages
 
-</td>
-<td align="center" width="25%">
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts,js,go,python,bash&theme=dark" /></a>
+</p>
 
-AI
+### Backend & Data
 
-ML · DL
-GenAI
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,kafka,rabbitmq&theme=dark" /></a>
+</p>
 
-</td>
-</tr>
-</table>
+### Cloud & DevOps
 
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,azure,nginx,git,githubactions&theme=dark" /></a>
+</p>
 
-EduAltTech
+### AI / ML / Deep Learning
 
-<div align="center">
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,sklearn&theme=dark" /></a>
+</p>
 
-CTO · Product & Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-An e-learning platform focused on making skill-sharing accessible, collaborative, and practical.
+---
 
-<a href="https://github.com/RanadeepVinukonda/EduAlTech">
-<img src="https://img.shields.io/badge/View%20Project-EduAltTech-00c896?style=for-the-badge&logo=github&logoColor=0d1117"/>
-</a>
+## Selected Projects
 
-<br/><br/>
+| Project | What it does |
+|---|---|
+| **[EduAltTech](https://github.com/RanadeepVinukonda/EduAlTech)** | E-learning platform for learning and skill sharing |
+| **[Customer Spending Forecast](https://github.com/RanadeepVinukonda/Customer-Spending-Forecast)** | Predicts customer spending using regression |
+| **[Auto ML Regression Trainer](https://github.com/RanadeepVinukonda/-Auto-ML-Linear-Regression-Trainer)** | Upload a dataset, train a model, generate predictions |
+| **[LLM Book Recommender](https://github.com/RanadeepVinukonda/LLm-Book-Recommender)** | AI-powered book recommendation application |
+| **[Plot Generator](https://github.com/RanadeepVinukonda/Plot-Generator)** | Auto-generated visualizations from datasets |
 
-Architecture   Backend   APIs   Product Engineering   Deployment   Scalability
+---
 
-</div>
+## Current Learning Path
 
-Technology
+```
+Full Stack ──▶ Backend ──▶ System Design ──▶ Cloud/SRE ──▶ AI/ML Systems
+```
 
-<div align="center">
+| Track | Focus |
+|---|---|
+| `Go` | APIs · Concurrency · Distributed Systems |
+| `TypeScript` | React · Next.js |
+| `Systems` | System Design · Scalability |
+| `Cloud` | GCP · Docker · Kubernetes · SRE |
+| `AI/ML` | ML · Deep Learning · GenAI · MLOps |
 
-Languages & Full Stack
+---
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,python,react,nextjs,nodejs,express,tailwind,git&theme=dark" />
+## Certifications
 
-<br/><br/>
-
-Backend, Databases & Systems
-
-<img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mysql,mongodb,redis,kafka,rabbitmq,nginx&theme=dark" />
-
-<br/><br/>
-
-Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,azure,bash&theme=dark" />
-
-<br/><br/>
-
-AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white"/>
-
-</div>
-
-Selected Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-EduAltTech
-
-E-learning platform for learning and skill sharing.
-
-Stack: Full Stack · Cloud · AI
-
-<a href="https://github.com/RanadeepVinukonda/EduAlTech">Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-Customer Spending Forecast
-
-Regression-based customer spending prediction.
-
-Stack: Python · Pandas · ML
-
-<a href="https://github.com/RanadeepVinukonda/Customer-Spending-Forecast">Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Auto ML Regression Trainer
-
-Upload a dataset, train a model, and generate predictions.
-
-Stack: Python · ML · Streamlit
-
-<a href="https://github.com/RanadeepVinukonda/-Auto-ML-Linear-Regression-Trainer">Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-LLM Book Recommender
-
-AI-powered book recommendation application.
-
-Stack: Python · LLM · AI
-
-<a href="https://github.com/RanadeepVinukonda/LLm-Book-Recommender">Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Plot Generator
-
-Automatically generates visual plots from datasets.
-
-Stack: Python · Data Science
-
-<a href="https://github.com/RanadeepVinukonda/Plot-Generator">Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-More on GitHub
-
-Explore my repositories, experiments, DSA practice, and ongoing projects.
-
-<a href="https://github.com/RanadeepVinukonda?tab=repositories">View all repositories →</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-Current Learning Path
+| Issuer | Certification |
+|---|---|
+| Meta | Intro to Backend Development |
+| IBM | Introduction to AI |
+| University of London | Machine Learning for All |
+| Google Cloud | Build Real-World AI Apps with Gemini & Imagen |
+| Google Cloud Gen AI Exchange | Gen AI Academy (5 courses) |
+| Microsoft Azure AI / Edunet Foundation | AI Internship |
+| Infosys Springboard | Virtual Internship 6.0 — Audio Book Generator |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<th>Area</th>
-<th>Current Focus</th>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Go · APIs · Concurrency · Distributed Systems</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td>
-<td>TypeScript · React · Next.js</td>
-</tr>
-<tr>
-<td><b>Architecture</b></td>
-<td>System Design · Scalability · Clean Architecture</td>
-</tr>
-<tr>
-<td><b>Cloud</b></td>
-<td>GCP · Docker · Kubernetes · SRE</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>Machine Learning · Deep Learning · GenAI · MLOps</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9" width="47%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" width="41%" alt="Top languages"/>
 
 <br/>
 
-<code>Full Stack</code>
-  →  
-<code>Backend</code>
-  →  
-<code>System Design</code>
-  →  
-<code>Cloud & SRE</code>
-  →  
-<code>AI / ML Systems</code>
+<img src="https://streak-stats.demolab.com?user=RanadeepVinukonda&hide_border=true&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896&sideLabels=c9d1d9&dates=c9d1d9" width="52%" alt="GitHub streak"/>
 
 </div>
 
-Certifications
+---
+
+## Connect
 
 <div align="center">
 
-Organization
+Open to building, learning, and collaborating on interesting software, systems, and AI projects.
 
-Certification / Program
-
-Meta
-
-Introduction to Backend Development
-
-IBM
-
-Introduction to Artificial Intelligence
-
-University of London
-
-Machine Learning for All
-
-Google Cloud
-
-Build Real-World AI Apps with Gemini & Imagen
-
-Google Cloud Gen AI Exchange
-
-Gen AI Academy
-
-Microsoft Azure AI / Edunet Foundation
-
-AI Internship
-
-Infosys Springboard
-
-Virtual Internship 6.0 · Audio Book Generator
-
-</div>
-
-GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RanadeepVinukonda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896&text_color=c9d1d9&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanadeepVinukonda&layout=compact&hide_border=true&bg_color=0d1117&title_color=00c896&text_color=c9d1d9" width="40%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RanadeepVinukonda&hide_border=true&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896&sideLabels=c9d1d9&dates=8b949e" width="55%" />
-
-</div>
-
-Let's Connect
-
-<div align="center">
-
-Open to building, learning, and collaborating.
+Ongole, Andhra Pradesh, India
 
 <p>
-<a href="https://github.com/RanadeepVinukonda">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/ranadeepvinukonda">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:viranadeep@gmail.com">
-<img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="42"/>
-</a>
+  <a href="https://github.com/RanadeepVinukonda"><img src="https://img.shields.io/badge/GitHub-RanadeepVinukonda-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ranadeepvinukonda"><img src="https://img.shields.io/badge/LinkedIn-ranadeepvinukonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:viranadeep@gmail.com"><img src="https://img.shields.io/badge/Email-viranadeep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<br/>
+### Build · Learn · Ship · Improve
 
-<a href="https://github.com/RanadeepVinukonda">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ranadeepvinukonda">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:viranadeep@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101820,100:00c896&height=120&section=footer" width="100%"/>
 
-<br/><br/>
-
-Build · Learn · Ship · Improve
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:101820,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
