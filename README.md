@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:0d9488,100:0d1117&height=180&section=header&text=Ranadeep%20Vinukonda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CTO%20%40%20EduAltTech%20%C2%B7%20Full%20Stack%20%26%20Systems%20%C2%B7%20CSE%20Undergraduate&descSize=16&descAlignY=60" width="100%"/>
 
@@ -163,3 +163,4 @@ Ongole, Andhra Pradesh, India
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d9488,100:00c896&height=120&section=footer" width="100%"/>
 
 </div>
+](https://share.google/sWti7wUlzkFVaJvtZ)
